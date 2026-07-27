@@ -43,8 +43,18 @@
 <br/>
 <br/>
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/projects.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/projects-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/projects.svg" alt="Featured Projects" />
+</picture>
+</div>
 
-### 🚀 Featured Projects
+<br/>
+
+<div align="center">
+
+### 🚀 Live Projects &amp; Repositories
 
 | Project Name &amp; Live Link | Tech Stack &amp; Overview | Repository |
 | :--- | :--- | :---: |
