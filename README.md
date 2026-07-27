@@ -46,20 +46,34 @@
   <img width="100%" src="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/projects.svg" alt="Featured Projects" />
 </div>
 
+<br/>
+
+<div align="center">
+
+### 🔗 Direct Project Links
+
+🤖 **[AI Teaching Assistant](https://github.com/GauravAgrawal11/AI_Teaching_Assitant)** &nbsp;&nbsp;|&nbsp;&nbsp; 💼 **[GetDailyWork Marketplace](https://github.com/GauravAgrawal11/GetDailyWork)** &nbsp;&nbsp;|&nbsp;&nbsp; 📄 **[PDF Slip Processor SaaS](https://github.com/GauravAgrawal11/PDF_Slip_Processor)**
+
+</div>
+
 <!-- ===== SOCIAL BADGES ===== -->
 <br/>
 <div align="center">
 
-<a href="https://www.linkedin.com/in/Gaurav%20Agrawal/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&amp;logoColor=white&amp;labelColor=0A101F&amp;logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+<a href="https://linkedin.com/in/Gaurav-Agrawal" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&amp;logoColor=white&amp;labelColor=0A101F&amp;logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTIzLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="https://leetcode.com/Gaurav">
+<a href="https://leetcode.com/u/gauravagrawal11/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116&amp;labelColor=0A101F" alt="LeetCode" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:gauravagrawal9469@gmail.com">
+<a href="mailto:gauravagrawal9469@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&amp;logo=gmail&amp;logoColor=10B981&amp;labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/GauravAgrawal11" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE&amp;labelColor=0A101F" alt="GitHub" />
 </a>
 
 </div>
