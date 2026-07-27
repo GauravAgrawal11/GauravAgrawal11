@@ -54,13 +54,13 @@
 
 <div align="center">
 
-### 🚀 Live Projects &amp; Repositories
+### 🚀 Live Projects
 
-| Project Name &amp; Live Link | Tech Stack &amp; Overview | Repository |
+| Project | Overview &amp; Tech Stack | Live Demo |
 | :--- | :--- | :---: |
-| 🤖 **[AI Teaching Assistant](https://ai-teaching-assistant.vercel.app)** | Online teaching &amp; doubt solving platform with LangChain RAG &amp; Whisper lecture transcription. <br/>`Python` `LangChain` `Whisper` `Ollama` `Neon DB` | [GitHub →](https://github.com/GauravAgrawal11/AI_Teaching_Assitant) |
-| 💼 **[GetDailyWork Marketplace](https://get-daily-work.vercel.app)** | Home Services Marketplace Platform with Gemini 2.5 AI assistant automating 80%+ routine queries. <br/>`React 18` `TypeScript` `Supabase` `Gemini 2.5` `Vercel` | [GitHub →](https://github.com/GauravAgrawal11/GetDailyWork) |
-| 📄 **[PDF Slip Processor SaaS](https://pdf-slip-processor.vercel.app)** | Full-Stack SaaS microservice auto-detecting, cropping &amp; merging PDF slips (~70% time saved). <br/>`Next.js 14` `Node.js` `Python` `OpenCV` `Supabase` | [GitHub →](https://github.com/GauravAgrawal11/PDF_Slip_Processor) |
+| 🤖 **[AI Teaching Assistant](https://ai-teaching-assistant.vercel.app)** | Online teaching &amp; doubt solving platform with LangChain RAG &amp; Whisper lecture transcription. <br/>`Python` `LangChain` `Whisper` `Ollama` `Neon DB` | [Live Demo →](https://ai-teaching-assistant.vercel.app) |
+| 💼 **[GetDailyWork Marketplace](https://get-daily-work.vercel.app)** | Home Services Marketplace Platform with Gemini 2.5 AI assistant automating 80%+ routine queries. <br/>`React 18` `TypeScript` `Supabase` `Gemini 2.5` `Vercel` | [Live Demo →](https://get-daily-work.vercel.app) |
+| 📄 **[PDF Slip Processor SaaS](https://pdf-slip-processor.vercel.app)** | Full-Stack SaaS microservice auto-detecting, cropping &amp; merging PDF slips (~70% time saved). <br/>`Next.js 14` `Node.js` `Python` `OpenCV` `Supabase` | [Live Demo →](https://pdf-slip-processor.vercel.app) |
 
 </div>
 
