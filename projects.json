@@ -1,0 +1,20 @@
+[
+  {
+    "name": "AI Teaching Assistant",
+    "repo": "GauravAgrawal11/AI_Teaching_Assitant",
+    "description": "Online teaching & doubt solving platform with LangChain RAG pipeline & Whisper lecture transcription.",
+    "tags": ["Python", "LangChain", "Whisper", "Ollama", "Neon DB"]
+  },
+  {
+    "name": "GetDailyWork",
+    "repo": "GauravAgrawal11/GetDailyWork",
+    "description": "Home Services Marketplace Platform with AI assistant automating 80%+ routine booking queries.",
+    "tags": ["React 18", "TypeScript", "Supabase", "Gemini 2.5", "Vercel"]
+  },
+  {
+    "name": "PDF Slip Processor",
+    "repo": "GauravAgrawal11/PDF_Slip_Processor",
+    "description": "Full-Stack SaaS microservice auto-detecting, cropping & merging PDF slips, cutting processing time ~70%.",
+    "tags": ["Next.js 14", "Node.js", "Python", "OpenCV", "Supabase"]
+  }
+]
