@@ -43,41 +43,36 @@
 <br/>
 <br/>
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/projects.svg" alt="Featured Projects" />
+
+### 🚀 Featured Projects
+
+| Project | Description &amp; Tech Stack | Link |
+| :--- | :--- | :---: |
+| 🤖 **[AI Teaching Assistant](https://github.com/GauravAgrawal11/AI_Teaching_Assitant)** | Online teaching &amp; doubt solving platform with LangChain RAG &amp; Whisper lecture transcription. <br/>`Python` `LangChain` `Whisper` `Ollama` `Neon DB` | [View Project →](https://github.com/GauravAgrawal11/AI_Teaching_Assitant) |
+| 💼 **[GetDailyWork Marketplace](https://github.com/GauravAgrawal11/GetDailyWork)** | Home Services Marketplace Platform with Gemini 2.5 AI assistant automating 80%+ routine queries. <br/>`React 18` `TypeScript` `Supabase` `Gemini 2.5` `Vercel` | [View Project →](https://github.com/GauravAgrawal11/GetDailyWork) |
+| 📄 **[PDF Slip Processor SaaS](https://github.com/GauravAgrawal11/PDF_Slip_Processor)** | Full-Stack SaaS microservice auto-detecting, cropping &amp; merging PDF slips (~70% time saved). <br/>`Next.js 14` `Node.js` `Python` `OpenCV` `Supabase` | [View Project →](https://github.com/GauravAgrawal11/PDF_Slip_Processor) |
+
 </div>
 
+<!-- ===== OFFICIAL SOCIAL BADGES ===== -->
 <br/>
-
-<div align="center">
-
-### 🚀 Featured Projects Repositories
-
-| Project | Live Repository | Key Tech Stack |
-| :--- | :--- | :--- |
-| 🤖 **AI Teaching Assistant** | [github.com/GauravAgrawal11/AI_Teaching_Assitant](https://github.com/GauravAgrawal11/AI_Teaching_Assitant) | Python, LangChain, Whisper, Ollama, Neon DB |
-| 💼 **GetDailyWork Marketplace** | [github.com/GauravAgrawal11/GetDailyWork](https://github.com/GauravAgrawal11/GetDailyWork) | React 18, TypeScript, Supabase, Gemini 2.5, Vercel |
-| 📄 **PDF Slip Processor SaaS** | [github.com/GauravAgrawal11/PDF_Slip_Processor](https://github.com/GauravAgrawal11/PDF_Slip_Processor) | Next.js 14, Node.js, Python, OpenCV, Supabase |
-
-</div>
-
-<!-- ===== SOCIAL BADGES ===== -->
 <br/>
 <div align="center">
 
 <a href="https://www.linkedin.com/in/gaurav-agrawal-b98c9/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&amp;logoColor=white&amp;labelColor=0A101F&amp;logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTIzLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43QgQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/gauravagrawal4321/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-0A101F?style=for-the-badge&amp;logo=leetcode&amp;logoColor=FFA116&amp;labelColor=0A101F" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black" alt="LeetCode" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:gauravagrawal9469@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&amp;logo=gmail&amp;logoColor=10B981&amp;labelColor=0A101F" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/GauravAgrawal11" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&amp;logo=github&amp;logoColor=22D3EE&amp;labelColor=0A101F" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </a>
 
 </div>
