@@ -40,14 +40,11 @@
 </div>
 
 <!-- ===== FEATURED PROJECTS SECTION ===== -->
+<!-- ===== END SNAKE ===== -->
 <br/>
 <br/>
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/projects.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/projects-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/projects.svg" alt="Featured Projects" />
-</picture>
+<img width="100%" src="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/projects/projects.svg" alt="Projects" />
 </div>
 
 <br/>
