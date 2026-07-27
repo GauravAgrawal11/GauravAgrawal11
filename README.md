@@ -1,8 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/dark.svg">
-  <source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/light.svg">
   <img alt="Gaurav Agrawal" src="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/main/light.svg">
 </picture>
 
@@ -21,12 +19,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-  srcset="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/output/github-snake.svg" />
-  <img alt="Snake eating my contributions"
-  src="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/GauravAgrawal11/GauravAgrawal11/output/github-snake.svg" />
 </picture>
 </div>
 
